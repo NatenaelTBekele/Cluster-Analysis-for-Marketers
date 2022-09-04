@@ -1,5 +1,5 @@
 # Cluster-Analysis-for-Marketers
-* You have been tasked to create targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups.
+
 * The company has extensive data on their customers for the duration of 2.5 years.
 * One of the key pain points for marketers is to know their customers and identify their needs.
 * By understanding the customer, marketers can launch a targeted marketing campaign that is tailored for specific needs
@@ -7,6 +7,7 @@
 * Marketers can help build the company’s brand, engage customers, grow revenue, and increase sales.
 
 # Data Dictionary
+
 * ORDERNUMER: Identification of order placed
 * QUANTITYORDERED: Number of items ordered
 * PRICEEACH: Price of each item
